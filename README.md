@@ -440,29 +440,6 @@ The analytics layer uses structured business data and Python-based data processi
 
 ---
 
-# 📄 Document Generation
-
-The project includes document-generation capabilities.
-
-### Supported Outputs
-
-- PDF reports
-- PowerPoint presentations
-
-Technologies used:
-
-- ReportLab
-- python-pptx
-
-Generated outputs can be used for:
-
-- Sales reports
-- Business summaries
-- Store reports
-- Analytics presentation
-
----
-
 # 🗄️ Database Architecture
 
 The application uses **SQLite** for local data storage.
@@ -884,10 +861,9 @@ The main objectives of StoreMate AI are:
 4. Automate billing operations.
 5. Support customer and khata management.
 6. Provide business analytics.
-7. Generate useful reports.
-8. Reduce dependency on cloud AI services.
-9. Provide a simple Telegram-based interface.
-10. Combine AI reasoning with deterministic business tools.
+7. Reduce dependency on cloud AI services.
+8. Provide a simple Telegram-based interface.
+9. Combine AI reasoning with deterministic business tools.
 
 ---
 
@@ -975,10 +951,6 @@ SQLite provides lightweight local data storage.
 ### 📊 Analytics
 
 Business data can be processed to generate useful insights.
-
-### 📄 Automated Reports
-
-The application supports PDF and PowerPoint document generation.
 
 ### 🔐 Data Control
 
