@@ -49,8 +49,6 @@ The AI Agent understands the user's request, identifies the required operation, 
 - 📊 Sales and business analytics
 - 📈 Revenue analysis
 - 🗄️ SQLite database
-- 📄 PDF report generation
-- 📊 PowerPoint report generation
 - 🔎 Product search and stock lookup
 - 🛡️ Agent guardrails and validation
 - 🌐 Local AI processing without cloud LLM dependency
@@ -266,7 +264,6 @@ StoreMate AI uses **Qwen3:4b** as the local Large Language Model.
 | Backend | Python |
 | Business Logic | Python Services |
 | Data Processing | Pandas |
-| Reports | ReportLab / python-pptx |
 
 ### Why Local AI?
 
@@ -536,8 +533,6 @@ supermarket_ops_agent/
 | ORM / Database Layer | SQLAlchemy |
 | Data Processing | Pandas |
 | Spreadsheet Processing | OpenPyXL |
-| PDF Generation | ReportLab |
-| Presentation Generation | python-pptx |
 | Environment Management | python-dotenv |
 | Testing | Pytest |
 
@@ -836,19 +831,6 @@ For coverage:
 ```bash
 pytest --cov=app
 ```
-
----
-
-# 📄 Sample Outputs
-
-The project contains sample outputs under:
-
-```text
-sample_outputs/
-```
-
-These demonstrate generated business reports and document-generation capabilities.
-
 ---
 
 # 🎯 Project Objectives
@@ -992,7 +974,6 @@ Potential future improvements include:
 - 💳 Payment integration
 - 📊 Advanced sales forecasting
 - 🧠 More specialized AI agents
-- 📩 Automated reports and notifications
 
 ---
 
