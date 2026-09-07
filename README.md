@@ -10,11 +10,11 @@
 
 ### 📦 Inventory Management
 
-![StoreMate AI Inventory](docs/screenshots/telegram-inventory.png)
+<img width="1470" height="956" alt="telegram-inventory" src="https://github.com/user-attachments/assets/19363e49-6a43-498d-9c19-89f9c78c6431" />
 
 ### 🧾 Billing & Invoice Generation
 
-![StoreMate AI Billing](docs/screenshots/telegram-billing.png)
+<img width="1470" height="956" alt="telegram-billing" src="https://github.com/user-attachments/assets/5687463f-4b56-4bc5-9089-bd18f604254b" />
 
 ---
 
